@@ -28,6 +28,7 @@ public class Hauteskundeak {
 		h2021.gehituMahaia("Andoain");
 		h2021.gehituMahaia("Hernani");
 		h2021.gehituMahaia("Erandio");
+		h2021.gehituMahaia("Sextown");
 
 		System.out.println(h2021);
 	}
